@@ -11,12 +11,13 @@ This is a github repo containing the  documentation and image files for the idea
 </div>
 
 
+# Updates
+
+More files regarding protoype  and some other stuffs will be uploaded later
+
 ### Authors
 
 Sidharth S Unnithan - Sophomore CSE Undergrad at Jyothi Engineering College,Thrissur,Kerala
-
-<div align="center">
-<img src ="C:\Users\Sidharth\Desktop\ideas elite ideathon\images\sid airport 2019.jpg">
-</div>
-
+Sidharth P - Sophomore CSE Undergrad at Jyothi Engineering College,Thrissur,Kerala
+Deo Saju - Sophomore CSE Undergrad at Jyothi Engineering College,Thrissur,Kerala
 
