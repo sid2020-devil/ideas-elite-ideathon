@@ -16,7 +16,7 @@ This is a github repo containing the  documentation and image files for the idea
 Sidharth S Unnithan - Sophomore CSE Undergrad at Jyothi Engineering College,Thrissur,Kerala
 
 <div align="center">
-<img src =""C:\Users\Sidharth\Desktop\ideas elite ideathon\images\sid airport 2019.jpg"">
+<img src ="C:\Users\Sidharth\Desktop\ideas elite ideathon\images\sid airport 2019.jpg">
 </div>
 
 
